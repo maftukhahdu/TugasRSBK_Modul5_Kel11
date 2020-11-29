@@ -73,7 +73,7 @@ export default class adzan extends Component {
                                     type="primary"
                                     shape="round"
                                     style={{margin:'15px 25px 0px 25px'}}
-                                    onClick={() => this.handleButton(results.nama)}>
+                                    onClick={() => this.handleButton(results.tanggal)}>
                                     Klik aku maz
                                     </Button>
                             </Card>
